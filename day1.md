@@ -7,8 +7,7 @@ to avoid overflow:
 middle = left + (right - left) / 2
 ```
 
-implementations in Python3:
-time exceeds:
+implementations in Python3, first try
 
 ```
 class Solution(object):
