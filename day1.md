@@ -80,3 +80,4 @@ implementations in C++:
 
 Leetcode Reference:
 
+[LC704](https://leetcode.com/problems/binary-search/)
