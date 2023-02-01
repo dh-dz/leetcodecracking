@@ -68,7 +68,21 @@ fast/slow pointer
 implementations in Python3:
 
 ```
-
+class Solution(object):
+    def removeElement(self, nums, val):
+        """
+        :type nums: List[int]
+        :type val: int
+        :rtype: int
+        """
+        # fast pointer: indf
+        # slow pointer: inds
+        inds = 0
+        for indf in range(len(nums)):
+            if nums[indf] != val:
+                nums[inds] = nums[indf]
+                inds += 1
+        return inds
 ```
 
 implementations in C++:
