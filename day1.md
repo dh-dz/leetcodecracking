@@ -93,4 +93,4 @@ implementations in C++:
 
 Leetcode Reference:
 
-[LC704](https://leetcode.com/problems/binary-search/)
+[LC704](https://leetcode.com/problems/binary-search/), [LC27](https://leetcode.com/problems/remove-element/description/)
