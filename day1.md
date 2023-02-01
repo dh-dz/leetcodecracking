@@ -37,7 +37,7 @@ class Solution(object):
 ```
 there were a lot of problems: boundary index issues, the positons of returns...
 
-revised:
+revised: middle +1, -1 super important when choosing to do in a closed range
 ```
 class Solution(object):
     def search(self, nums, target):
