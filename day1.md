@@ -1,8 +1,6 @@
 Array: continuous memory, when deleting items, need to change the address of other items
 
-Remove elements:
-fast/slow pointer
-
+Binary search:
 to avoid overflow:
 
 ```
@@ -64,7 +62,8 @@ implementations in C++:
 
 ```
 
-Binary search:
+Remove elements:
+fast/slow pointer
 
 implementations in Python3:
 
