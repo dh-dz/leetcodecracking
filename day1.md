@@ -35,7 +35,7 @@ class Solution(object):
                 index = middle
         return index
 ```
-there were a lot of problems: boundary index issues
+there were a lot of problems: boundary index issues, the positons of returns...
 
 revised:
 ```
@@ -62,10 +62,6 @@ implementations in C++:
 
 ```
 
-```
-
-```
-print("Hello World!")
 ```
 
 Binary search:
